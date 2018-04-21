@@ -1,0 +1,6 @@
+body#corpo {
+	text-align: justify;
+    background-image: url("/assets/imagens/googlefake_logo.jpg");
+    background-repeat: no-repeat; 
+    background-position: 50% 15%; 
+}   
